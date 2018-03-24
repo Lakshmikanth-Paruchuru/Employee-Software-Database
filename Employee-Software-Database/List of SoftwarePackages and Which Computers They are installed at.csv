@@ -1,0 +1,15 @@
+SPID,SPName,CompID,CompModel,CompMake,DateOfInstall
+1,QuickNumbers,101,X200,Zenovo,2011-11-14
+2,Presenter,101,X200,Zenovo,2011-03-14
+3,WordSmith,101,X200,Zenovo,2011-09-19
+1,QuickNumbers,102,Bartlett,Pear,2010-11-22
+2,Presenter,102,Bartlett,Pear,2012-01-09
+3,WordSmith,102,Bartlett,Pear,2012-01-11
+4,GraphixStudio,102,Bartlett,Pear,2012-01-14
+1,QuickNumbers,103,SlimBook,TamTung,2013-02-22
+2,Presenter,103,SlimBook,TamTung,2010-11-22
+3,WordSmith,103,SlimBook,TamTung,2013-02-22
+1,QuickNumbers,104,X500,Zenovo,2011-03-01
+2,Presenter,104,X500,Zenovo,2011-03-13
+3,WordSmith,104,X500,Zenovo,2012-01-16
+4,GraphixStudio,104,X500,Zenovo,2012-02-18
